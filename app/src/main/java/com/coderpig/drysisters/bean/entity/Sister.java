@@ -3,7 +3,6 @@ package com.coderpig.drysisters.bean.entity;
 /**
  * 描述：妹子业务Bean
  *
- * @author coder-pig： 2016/08/06 17:16
  */
 public class Sister {
 

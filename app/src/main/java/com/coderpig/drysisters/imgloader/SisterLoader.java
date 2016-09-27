@@ -27,7 +27,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * 描述：图片加载的主要控制类
  *
- * @author coder-pig： 2016/08/10 11:05
  */
 public class SisterLoader {
 

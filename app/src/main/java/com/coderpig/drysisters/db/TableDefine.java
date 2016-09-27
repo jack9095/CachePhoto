@@ -3,7 +3,6 @@ package com.coderpig.drysisters.db;
 /**
  * 描述：数据库字段常量
  *
- * @author coder-pig： 2016/08/18 20:17
  */
 public class TableDefine {
     public static final String TABLE_FULI = "fuli";

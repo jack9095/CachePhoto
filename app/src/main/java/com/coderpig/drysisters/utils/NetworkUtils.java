@@ -7,7 +7,6 @@ import android.net.NetworkInfo;
 /**
  * 描述：网络相关工具类
  *
- * @author coder-pig： 2016/08/22 10:24
  */
 public class NetworkUtils {
     /** 获取网络信息 */

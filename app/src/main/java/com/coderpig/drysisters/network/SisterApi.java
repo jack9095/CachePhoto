@@ -16,7 +16,6 @@ import java.util.ArrayList;
 /**
  * 描述：网络请求处理相关类
  *
- * @author coder-pig： 2016/08/07 14:28
  */
 public class SisterApi {
     private static final String TAG = "Network";

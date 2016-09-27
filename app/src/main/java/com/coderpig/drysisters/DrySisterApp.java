@@ -6,7 +6,6 @@ import android.content.Context;
 /**
  * 描述：Application类
  *
- * @author coder-pig： 2016/08/07 15:07
  */
 public class DrySisterApp extends Application {
 

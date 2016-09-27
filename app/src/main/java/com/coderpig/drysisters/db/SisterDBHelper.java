@@ -14,7 +14,6 @@ import java.util.List;
 /**
  * 描述：数据库操作类
  *
- * @author coder-pig： 2016/08/18 21:00
  */
 public class SisterDBHelper {
 

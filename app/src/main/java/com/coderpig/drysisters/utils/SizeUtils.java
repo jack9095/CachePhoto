@@ -5,7 +5,6 @@ import android.content.Context;
 /**
  * 描述：尺寸转换工具类
  *
- * @author coder-pig： 2016/08/17 11:47
  */
 public class SizeUtils {
 

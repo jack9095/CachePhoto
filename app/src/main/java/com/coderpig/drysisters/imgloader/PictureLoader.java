@@ -17,7 +17,6 @@ import java.net.URL;
 /**
  * 描述：加载网络图片的类
  *
- * @author coder-pig： 2016/08/05 14:34
  */
 public class PictureLoader {
     private ImageView loadImg;

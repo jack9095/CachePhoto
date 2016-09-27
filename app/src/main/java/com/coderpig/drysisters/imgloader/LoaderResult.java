@@ -6,7 +6,6 @@ import android.widget.ImageView;
 /**
  * 描述：加载结果类
  *
- * @author coder-pig： 2016/08/17 11:09
  */
 public class LoaderResult {
     public ImageView img;

@@ -10,7 +10,6 @@ import java.io.FileDescriptor;
 /**
  * 描述：图片压缩类
  *
- * @author coder-pig： 2016/08/10 16:30
  */
 public class SisterCompress {
 
